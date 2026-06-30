@@ -1,0 +1,130 @@
+{
+  "slug": "sample-property",
+  "name": "신검단 로열파크씨티II",
+  "subtitle": "건강한 쉼, 일상이 힐링이 되는 삶이 완성되는 곳",
+  "address": "인천광역시 서구 왕길동 133-3번지 일대",
+  "description": "인천 서구 검단신도시(검단3구역)에 들어서는 1,500세대 규모의 프리미엄 주거단지. 지하 2층~지상 29층, 총 15개동으로 구성되며 호텔급 커뮤니티와 하이엔드 디자인을 갖추었습니다.",
+  "specs": {
+    "사업명": "인천 검단3구역 9블록 1롯트 공동주택",
+    "대지위치": "인천광역시 서구 왕길동 133-3번지 일대",
+    "지역지구": "제3종일반주거지역 / 제1종지구단위계획구역(검단3구역)",
+    "용도": "공동주택, 근린생활시설",
+    "대지면적": "73,250.000㎡ (22,158.13평)",
+    "건축면적": "12,179.8539㎡ (3,684.41평)",
+    "연면적": "227,054.3383㎡ (68,683.94평)",
+    "건폐율": "16.63%",
+    "용적률": "211.8203%",
+    "건축규모": "지하 2층 ~ 지상 29층, 총 15개동",
+    "총세대수": "1,500세대",
+    "주차대수": "계획 1,884대 (법정 1,548대)"
+  },
+  "highlights": [
+    "대한민국 하이엔드 주거브랜드 1위 · 살기 좋은 아파트 종합대상 수상",
+    "IFLA 세계조경가협회 Honourable Mention 수상 단지",
+    "총 1,500세대 · 지하 2층~지상 29층 15개동 대단지",
+    "로열 인도어 골프 · 로열 커뮤니티 센터 · 로열 컬쳐센터",
+    "로열 마리나 서비스 · 로열 라운지 서비스 · 로열 게스트하우스",
+    "DK 로열파크씨티 브랜드의 신검단 두 번째 단지"
+  ],
+  "unitsNote": "총 1,500세대 · 잔여세대 383세대",
+  "units": [
+    { "type": "59A", "area": "전용 59.95㎡", "households": "160세대", "price": "분양 문의" },
+    { "type": "59B", "area": "전용 59.96㎡", "households": "203세대", "price": "분양 문의" },
+    { "type": "74A", "area": "전용 74.46㎡", "households": "199세대", "price": "분양 문의" },
+    { "type": "74B", "area": "전용 74.24㎡", "households": "248세대", "price": "분양 문의" },
+    { "type": "84A", "area": "전용 84.99㎡", "households": "252세대", "price": "분양 문의" },
+    { "type": "84B", "area": "전용 84.95㎡", "households": "254세대", "price": "분양 문의" },
+    { "type": "84C", "area": "전용 84.98㎡", "households": "114세대", "price": "분양 문의" },
+    { "type": "99", "area": "전용 99.81㎡", "households": "70세대", "price": "분양 문의" }
+  ],
+  "images": {
+    "hero": [
+      "reference/summary/summary (1).webp"
+    ],
+    "gallery": [
+      "reference/community/community (3).webp",
+      "reference/community/community (2).webp",
+      "reference/community/community (5).webp",
+      "reference/community/community (4).webp",
+      "reference/3d_landscaping/3d_landscaping (3).webp",
+      "reference/3d_landscaping/3d_landscaping (4).webp"
+    ],
+    "floorplan": [
+      "reference/type_floor_plans/type_floor_plans (1).webp",
+      "reference/type_floor_plans/type_floor_plans (2).webp",
+      "reference/type_floor_plans/type_floor_plans (3).webp",
+      "reference/type_floor_plans/type_floor_plans (4).webp",
+      "reference/type_floor_plans/type_floor_plans (5).webp",
+      "reference/type_floor_plans/type_floor_plans (6).webp",
+      "reference/type_floor_plans/type_floor_plans (7).webp",
+      "reference/type_floor_plans/type_floor_plans (8).webp"
+    ],
+    "location": [
+      "reference/official/loc_showroom.jpg",
+      "reference/official/loc_map.jpg"
+    ]
+  },
+  "sections": {
+    "design": {
+      "title": "하이엔드 디자인",
+      "subtitle": "리조트 도시 시작점, 연속적으로 연계된 프리미엄 도시경관",
+      "images": [
+        "reference/high_end_design/high_end_design (1).webp",
+        "reference/high_end_design/high_end_design (2).webp",
+        "reference/high_end_design/high_end_design (3).webp",
+        "reference/high_end_design/high_end_design (5).webp",
+        "reference/high_end_design/high_end_design (8).webp",
+        "reference/high_end_design/high_end_design (12).webp"
+      ]
+    },
+    "landscaping": {
+      "title": "3D 프리미엄 조경",
+      "subtitle": "DK이사야 인그레이아트원 로열 프리미어 조경 설계",
+      "images": [
+        "reference/3d_landscaping/3d_landscaping (1).webp",
+        "reference/3d_landscaping/3d_landscaping (2).webp",
+        "reference/3d_landscaping/3d_landscaping (3).webp",
+        "reference/3d_landscaping/3d_landscaping (4).webp",
+        "reference/3d_landscaping/3d_landscaping (5).webp",
+        "reference/3d_landscaping/3d_landscaping (8).webp"
+      ]
+    },
+    "community": {
+      "title": "커뮤니티 시설",
+      "subtitle": "6성급 호텔급 프리미엄 커뮤니티 — 단지 안에서 완성되는 리조트 라이프",
+      "items": [
+        { "label": "6성급 실내 수영장", "image": "reference/community/community (3).webp" },
+        { "label": "30m 인도어 골프장", "image": "reference/community/community (2).webp" },
+        { "label": "프리미엄 피트니스", "image": "reference/community/community (5).webp" },
+        { "label": "Royal 상영관", "image": "reference/community/community (4).webp" },
+        { "label": "스카이라운지", "image": "reference/community/community (6).webp" },
+        { "label": "커뮤니티 배치", "image": "reference/community/community (1).webp" }
+      ]
+    },
+    "royal_service": {
+      "title": "로열 서비스",
+      "subtitle": "그 이상의 High-Class — 입주민을 위한 프리미엄 서비스",
+      "images": [
+        "reference/royal_service/royal_service (1).webp",
+        "reference/royal_service/royal_service (2).webp",
+        "reference/royal_service/royal_service (3).webp",
+        "reference/royal_service/royal_service (4).webp",
+        "reference/royal_service/royal_service (5).webp",
+        "reference/royal_service/royal_service (6).webp"
+      ]
+    }
+  },
+  "videos": [
+    { "title": "신검단 로열파크씨티 Ⅱ 준공영상", "youtube": "g4P-evPwjQg" },
+    { "title": "TV CF", "youtube": "DTzI31lajQ4" }
+  ],
+  "contact": {
+    "phone": "010-3750-8390",
+    "hours": "언제든 편하게 연락 주세요.\n자세한 내용은 전화상담과 직접 아파트 현장과 홍보안내관을 방문하여 확인 후 분양 받으세요.\n빠른 분양은 로열층 확보에 큰 도움을 줍니다.\n바로 연락주세요. 감사합니다.",
+    "email": "info@hjstudio.kr",
+    "showroom": "서울 강서구 마곡동 774-3 센테니아빌딩 1층 125호 (DK아시아 마곡 홍보관)",
+    "formEndpoint": ""
+  },
+  "mapEmbed": "",
+  "mapLink": "https://naver.me/xGmpCSmo"
+}
